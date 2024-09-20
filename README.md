@@ -1,6 +1,7 @@
 # PR4_STRING
 Practica 4 String
 
+#Ejemplo 1
 
 print(" ")
 
@@ -19,6 +20,8 @@ print(a,b,c)#print imprime en la pantalla el valor de a,b,c
 print(a,c,a)#print imprime en la pantalla el valor de a,c,a
 
 print(" ")
+
+#Ejemplo 2
 
 d = '''El bibliotecario vio el cuerpo del texto de el libro de harry potter y la piedra filosofal y dijo que era una obra literaria y de magia algo para niños.'''
 
